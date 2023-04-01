@@ -13,6 +13,7 @@
 		DC632D3D29D8472700A0B926 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC632D3B29D8472700A0B926 /* Main.storyboard */; };
 		DC632D3F29D8472800A0B926 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC632D3E29D8472800A0B926 /* Assets.xcassets */; };
 		DC632D4229D8472800A0B926 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC632D4029D8472800A0B926 /* LaunchScreen.storyboard */; };
+		DC632D4A29D852A800A0B926 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC632D4929D852A800A0B926 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC632D3E29D8472800A0B926 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC632D4129D8472800A0B926 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC632D4329D8472800A0B926 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC632D4929D852A800A0B926 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DC632D3E29D8472800A0B926 /* Assets.xcassets */,
 				DC632D4029D8472800A0B926 /* LaunchScreen.storyboard */,
 				DC632D4329D8472800A0B926 /* Info.plist */,
+				DC632D4929D852A800A0B926 /* SettingViewController.swift */,
 			);
 			path = LEDboard;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				DC632D3A29D8472700A0B926 /* ViewController.swift in Sources */,
 				DC632D3629D8472700A0B926 /* AppDelegate.swift in Sources */,
 				DC632D3829D8472700A0B926 /* SceneDelegate.swift in Sources */,
+				DC632D4A29D852A800A0B926 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
